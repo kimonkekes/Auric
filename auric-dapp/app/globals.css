@@ -1,0 +1,13 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: black;
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: black;
+}
