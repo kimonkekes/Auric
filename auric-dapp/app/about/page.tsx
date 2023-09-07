@@ -6,7 +6,7 @@ export default function About() {
       <div className="w-full bg-black rounded-lg shadow text-justify md:mt-8 space-y-4 sm:max-w-3xl">
         <p>
           <span>
-            Auric is a sample dApp leveraging blockchain technlology. Its main
+            Auric is a sample dApp leveraging blockchain technology. Its main
             currency is an ERC20 token named{' '}
           </span>
           <Link
