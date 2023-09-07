@@ -56,7 +56,7 @@ export default function About() {
           <br />
           <br />
           <p>
-            <span className="font-bold">- Step 1</span> is where you authorise
+            <span className="font-bold">- Step 1</span> is where you authorize
             the AuricSeller smart contract to handle your Auric tokens on your
             behalf.
           </p>
@@ -72,7 +72,7 @@ export default function About() {
             of your crypto account ownership, e.g. a signed message) can be used
             to claim the gold bars{' '}
             <span className="italic">
-              (the verification act is ouside the scope of this dApp)
+              (the verification act is outside the scope of this dApp)
             </span>
             .
           </p>
@@ -86,7 +86,7 @@ export default function About() {
               (the owner's claim ETH function is not featured on this dApp)
             </span>
             . By claiming, 5% of profits is automatically donated to a
-            predifined address (e.g. a charity).
+            predefined address (e.g. a charity).
           </p>
         </div>
       </div>
