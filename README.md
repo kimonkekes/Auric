@@ -1,4 +1,4 @@
-# Auric - a gold investing dApp
+# Auric - a gold investment dApp
 
 Auric is a sample decentralized application (dApp). Its main currency is an ERC20 token named ["Auric"](https://sepolia.etherscan.io/token/0xc63e033c4452dec6ab5a52c9e835d56b27be83f4/), which supposedly represents ownership of an actual quantity in gold bars.
 
