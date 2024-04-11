@@ -36,6 +36,12 @@ The AuricSeller smart contract also includes a function for the owner to **claim
 
 <br>
 
+<div align="center">
+🤖 A <b>live version</b> of the dApp has been deployed <a href="https://auric-puce.vercel.app/">here</a>.
+</div>
+
+<br>
+
 ![aur1](https://github.com/kimonkekes/Auric/assets/126149828/66ddf8a1-3aeb-4462-9ae9-b896217db8fd)
 
 <br>
@@ -53,7 +59,7 @@ This repository contains a **Hardhat project** and a **Next.js dApp**:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- **AuricSeller**, the contract that handles the exchange and redemption of Auric tokens<br/><br/>
 
 
-➡️ The Next.js frontend/dApp (located inside the `/auric-dapp` folder) is the way to interact with the smart contracts, which have been deployed to the Sepolia test network.
+➡️ The Next.js frontend/dApp (located inside the `/auric-dapp` folder) is the way to **interact with the smart contracts**, which have been deployed to the *Sepolia test network*.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Click [here](https://sepolia.etherscan.io/token/0xc63e033c4452dec6ab5a52c9e835d56b27be83f4/) for the **Auric contract**.
 
